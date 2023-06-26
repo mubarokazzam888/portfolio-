@@ -1,6 +1,6 @@
 # Portfolio
 
-Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend dan Cyber Security dan sudah melakukan pelatihan seperti membuat Clustering, e-commerce dan penetration testing basic. Saya juga memiliki keterampilan analitis dan pemecahan masalah yang kuat, dan memiliki keahlian dalam bekerja baik secara mandiri maupun dalam tim. Saya sangat bersemangat untuk terus belajar dan mengembangkan diri di bidang teknologi yang saya geluti. Saat ini, saya sedang mencari peluang untuk bekerja atau melakukan magang di Machine Learning, Data Science, Cyber Security, Backend Engineering, atau Pengembangan Web, untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
+Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cyber Security dan sudah melakukan pelatihan seperti membuat Clustering, e-commerce dan penetration testing basic. Saya juga memiliki keterampilan analitis dan pemecahan masalah yang kuat, dan memiliki keahlian dalam bekerja baik secara mandiri maupun dalam tim. Saya sangat bersemangat untuk terus belajar dan mengembangkan diri di bidang teknologi yang saya geluti. Saat ini, saya sedang mencari peluang untuk bekerja atau melakukan magang di Machine Learning, Data Science, Cyber Security, Backend Engineering, atau Pengembangan Web, untuk menerapkan keterampilan dan pengetahuan saya dalam proyek nyata.
 
 ## Project
 
