@@ -9,6 +9,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 
 ### Machine Learning
 - [Pengenalan Pola Citra Digital](https://www.kaggle.com/mubarokazzam/pengenalan-pola-citra-digital)
+- [Memprediksi Penggunaan Bahan Bakar Untuk Kendaraan Armada](https://colab.research.google.com/drive/1rrwLDKfy6tUdwt7yG2IXdEwQTaQszfwR#scrollTo=8QbmuNB8Wd2k)
 - [Pelanggan supermarket dengan DB SCAN](https://www.kaggle.com/mubarokazzam/pelanggan-supermarket-dengan-db-scan)
 - [KDD Lanjutan](https://www.kaggle.com/mubarokazzam/kdd-lanjutan)
 - [Klasifikasi Status Pinjaman](https://www.kaggle.com/mubarokazzam/klasifikasi-status-pinjaman)
