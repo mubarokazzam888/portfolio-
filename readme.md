@@ -30,7 +30,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 - [Associate Data Scientist ](https://drive.google.com/file/d/1ndmVN9tbGDc3mzSM_dqwBKkIRAC3LYwT/view)
 - [PKS Digital School - Data Science](https://drive.google.com/file/d/1uj--jZYqe4XBFkGZI2uESNTjYu0ymYBY/view)
 - [PKS Digital School - Web Development](https://drive.google.com/file/d/1F3Ak4epInPHhZ1NBWghdtDqOzUTagK04/view)
-- [Certificate of Attendance (RH134-8.2)](https://drive.google.com/file/d/1F3Ak4epInPHhZ1NBWghdtDqOzUTagK04/view)
+- [Certificate of Attendance (RH134-8.2)](https://drive.google.com/file/d/1uYsJlbOzsJ6naYT2CUesAyphKr76lIBZ/view?usp=sharing)
 - [Cybersecurity Essentials LFC108)](https://drive.google.com/file/d/1mGfTNrTP_iyU7xeQur5qK5W6vBuyR7HP/view)
 
 
