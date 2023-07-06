@@ -18,7 +18,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 - [cluster - melacak trek](https://www.kaggle.com/mubarokazzam/cluster-melacak-trek)
 - [Regresi Covid 19 di Indonesia](https://www.kaggle.com/mubarokazzam/regresi-covid-19-di-indonesia)
 - [Segmentasi dan Pengenalan Pola Citra Digital](https://www.kaggle.com/mubarokazzam/segmentasi-dan-pengenalan-pola-citra-digital)
-- [Sentimen Analisis tentang seblak rafael](https://colab.research.google.com/drive/1I2mXl3J-zNBZK_fRM_4iW3ftyIe_IK-r?usp=sharing)
+- [Sentimen Analisis tentang seblak rafael](https://colab.research.google.com/drive/1Oj4i7WE86En_Jbrcq-C9lvuKNaZymCPT?usp=sharing)
 
 ## Skills
 
