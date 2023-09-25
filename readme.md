@@ -43,6 +43,8 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 - Medium: https://medium.com/@mmazzam4
 - Wordpress: https://mubarokazzamaja.wordpress.com/tentang-saya/
 - Twitter: @rhagon120475224
+- FB: https://www.facebook.com/profile.php?id=61551906596931
+- IG: https://www.instagram.com/m.mubarok_azzam/
 
 ## Contact
 - Email: mmazzam4@gmail.com
