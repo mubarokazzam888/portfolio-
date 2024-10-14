@@ -35,6 +35,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 - [Certificate of Attendance (RH134-8.2)](https://drive.google.com/file/d/1QKCnIgWyYcL4xcPrNTgrMeSGgfF375DL/view?usp=drive_link)
 - [Cybersecurity Essentials LFC108)](https://drive.google.com/file/d/1IuXXXrWRhFWtKXOND7SCjobVk9gfeBrA/view?usp=drive_link)
 - [Sertifikat Buku Mengejar Mimpi Tak Bertepi](https://drive.google.com/drive/folders/1qOmmdY3-ITyDQ1lvxCva8rgc8WkjbKvS)
+- [UAI English Test (UET)](https://drive.google.com/file/d/15Ie-Mcd_djZT9bS9-5cqm2jZnyBWzDnt/view?usp=drive_link)
 
 
 ## Media
