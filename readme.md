@@ -41,6 +41,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 - Kaggle: https://www.kaggle.com/mubarokazzam
 - Github: https://github.com/mubarokazzam888
 - Medium: https://medium.com/@mmazzam4
+- Credly: https://www.credly.com/users/mubarok-azzam
 - Wordpress: https://mubarokazzamaja.wordpress.com/tentang-saya/
 - Twitter: @rhagon120475224
 - FB: https://www.facebook.com/profile.php?id=61551906596931
