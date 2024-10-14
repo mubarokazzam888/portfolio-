@@ -6,6 +6,7 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 
 ### Backend Engineer / Fullstack Developer
 - [Foresell Ecommerce Multi Store | *Laravel, HTML, CSS, Js, Boostrap, MySql*](https://github.com/baihaqiyazid/project-foresell)
+- [Website Educonnect | *Laravel, HTML, Xampp, CSS*](https://github.com/mubarokazzam888/produk-educonnect)
 
 ### Machine Learning
 - [Pengenalan Pola Citra Digital](https://www.kaggle.com/mubarokazzam/pengenalan-pola-citra-digital)
