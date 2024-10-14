@@ -29,11 +29,11 @@ Saya seorang yang sedang mendalami Machine Learning, Frontend, Backend juga Cybe
 
 ## Certificates
 
-- [Associate Data Scientist ](https://drive.google.com/file/d/1ndmVN9tbGDc3mzSM_dqwBKkIRAC3LYwT/view)
-- [PKS Digital School - Data Science](https://drive.google.com/file/d/1uj--jZYqe4XBFkGZI2uESNTjYu0ymYBY/view)
-- [PKS Digital School - Web Development](https://drive.google.com/file/d/1F3Ak4epInPHhZ1NBWghdtDqOzUTagK04/view)
-- [Certificate of Attendance (RH134-8.2)](https://drive.google.com/file/d/1uYsJlbOzsJ6naYT2CUesAyphKr76lIBZ/view?usp=sharing)
-- [Cybersecurity Essentials LFC108)](https://drive.google.com/file/d/1mGfTNrTP_iyU7xeQur5qK5W6vBuyR7HP/view)
+- [Associate Data Scientist ](https://drive.google.com/file/d/1Q6WC6qkEERXygssP4XTnNeMW_BahtE6m/view?usp=drive_link)
+- [PKS Digital School - Data Science](https://drive.google.com/file/d/1yJQvrLEDaKxd5BKwqam8Okgxjmer_VVP/view?usp=drive_link)
+- [PKS Digital School - Web Development](https://drive.google.com/file/d/1NYbgq63JNtOCjGtnOdvLGJYbVqmqhXyT/view?usp=drive_link)
+- [Certificate of Attendance (RH134-8.2)](https://drive.google.com/file/d/1QKCnIgWyYcL4xcPrNTgrMeSGgfF375DL/view?usp=drive_link)
+- [Cybersecurity Essentials LFC108)](https://drive.google.com/file/d/1IuXXXrWRhFWtKXOND7SCjobVk9gfeBrA/view?usp=drive_link)
 - [Sertifikat Buku Mengejar Mimpi Tak Bertepi](https://drive.google.com/drive/folders/1qOmmdY3-ITyDQ1lvxCva8rgc8WkjbKvS)
 
 
